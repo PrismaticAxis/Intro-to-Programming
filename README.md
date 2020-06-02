@@ -1,7 +1,9 @@
 # Intro-to-Programming
 
 Name:   Stephen Lovell
+
 School: Southwest Technical College
+
 Course: Introduction to Programming
 
 This is a general repository for use in the Intro to Programming course I'm going to be taking (or am taking currently, or even took in the past, depending on when you read this). For the moment, that's rather open-ended, but I'll edit this with a better explanation as time goes on.
